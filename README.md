@@ -1,3 +1,2 @@
 # ineuron-clz
-python basic
-pyhton self learning 
+python basic self learning 
